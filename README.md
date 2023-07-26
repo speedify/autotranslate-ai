@@ -1,4 +1,4 @@
-# autotranslate-ai
+# AutoTranslate AI: Translator for English Files Using OpenAI
 Created by [Adam Gizis](https://github.com/adamgizis) and [Sophia Butler](https://github.com/sophbutler)
 
 A translator that takes an English .json or a .txt file and outputs translated files for every language listed in the language dictionary by using the OpenAI API.
