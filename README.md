@@ -1,7 +1,7 @@
 # AutoTranslate AI: Translator for English Files Using OpenAI
 Originally created to translate [Speedify](https://speedify.com) to other languages by [Adam Gizis](https://github.com/adamgizis) and [Sophia Butler](https://github.com/sophbutler)
 
-A translator that takes an English .json or a .txt file and outputs translated files for every language listed in the language dictionary by using the OpenAI API.
+A Python translator that takes an English .json or a .txt file and outputs translated files for every language listed in the language dictionary by using the OpenAI API.
 
 ## Table of Contents
 - [Before You Begin](#before-you-begin)
