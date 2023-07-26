@@ -4,13 +4,13 @@ import openai
 import time
 import json
 import tiktoken
-from translator import (
+from translations.translator import (
     translate_text,
     define_source_file,
     get_languages,
     store_translated_text_to_file,
 )
-from map_translations import map_translations
+from translations.map_translations import map_translations
 
 source = "json"
 openai.api_key = os.environ["OPENAI_API_KEY"]

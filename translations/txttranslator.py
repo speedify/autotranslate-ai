@@ -3,7 +3,7 @@ import sys
 import openai
 import time
 import shutil
-from translator import store_translated_text_to_file, translate_text, get_languages
+from translations.translator import store_translated_text_to_file, translate_text, get_languages
 
 # set OpenAI API key
 openai.api_key = os.environ["OPENAI_API_KEY"]
