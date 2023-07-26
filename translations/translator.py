@@ -117,8 +117,6 @@ def translate_text(text, target_language, source, is_keyword=False):
         translated_text = translation_table.get(text, {}).get(target_language)
         add_to_context(context_table, target_language, translated_text, text)
         return translated_text
-    else:
-        print(text)
 
     text_to_translate = text
 
