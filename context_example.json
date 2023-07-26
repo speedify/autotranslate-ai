@@ -1,0 +1,47 @@
+{
+  "en": {
+    "cat": "cat",
+    "dog": "dog",
+    "fish": "fish",
+  },
+  "ar": {
+    "cat": "قطة",
+    "dog": "كلب",
+    "fish": "سمكة",
+  },
+  "de": {
+    "cat": "Katze",
+    "dog": "Hund",
+    "fish": "Fisch",
+  },
+  "es": {
+    "cat": "gato",
+    "dog": "perro",
+    "fish": "pez",
+  },
+  "fr": {
+    "cat": "chat",
+    "dog": "chien",
+    "fish": "poisson",
+  },
+  "pt": {
+    "cat": "gato",
+    "dog": "cão",
+    "fish": "peixe",
+  },
+  "ro": {
+    "cat": "pisică",
+    "dog": "câine",
+    "fish": "pește",
+  },
+  "ru": {
+    "cat": "кошка",
+    "dog": "собака",
+    "fish": "рыба",
+  },
+  "tr": {
+    "cat": "kedi",
+    "dog": "köpek",
+    "fish": "balık",
+  }
+}
