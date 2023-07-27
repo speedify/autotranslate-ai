@@ -82,8 +82,8 @@ target/
 profile_default/
 ipython_config.py
 
-translations/translation_table_json.json
-translations/translation_table_txt.json
+scripts/translation_table_json.json
+scripts/translation_table_txt.json
 .DS_Store
 
 # pyenv
